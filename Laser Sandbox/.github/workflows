@@ -1,4 +1,0 @@
-mazak_pipeline/
-└── .github/
-    └── workflows/
-        └── pipeline_test.yml
